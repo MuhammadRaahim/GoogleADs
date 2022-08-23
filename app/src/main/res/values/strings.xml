@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Google Ads</string>
+    <string name="ads_application_id">ca-app-pub-4067505651062065~7336999460</string>
+    <string name="ads_application_id_sample">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4067505651062065/1126814334</string>
+    <string name="banner_ad_unit_id_sample">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_ads_id_Sample">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="str_banner_ads">Banner ADs</string>
+    <string name="str_inatialization_failed">The interstitial ad wasn\'t ready yet.</string>
+    <string name="str_interstitial_ads">Interstitial ADS</string>
+    <string name="str_press_to_reload_ads">Press to reload Ads</string>
+</resources>
